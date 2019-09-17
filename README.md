@@ -55,6 +55,7 @@ The machine learning algorithms with their accuracies are:
 * K-Nearest Neighbors; <b><i>91.8%</i></b> with 8 neighbors
 * Support Vector Classifier, <b><i>pending</i></b>
 * Decision Tree Classifier, <b><i>pending</i></b>
+* Linear Classification, <b><i>pending</i></b>
 
 Plots of all algorithms with accuracies are generated using <code>matplotlib.pyplot</code>.
 
