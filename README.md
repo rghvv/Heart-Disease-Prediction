@@ -55,7 +55,7 @@ The machine learning algorithms with their accuracies are:
 * K-Nearest Neighbors; <b><i>91.8%</i></b> with 8 neighbors
 * Support Vector Classifier; <b><i>90.16%</i></b> with rbf activation
 * Ada Boost Classifier; <b><i>85.25%</i></b> with 10 estimators
-* Multi-Layer Perceptron (neural network); <b><i>88.52%</i></b> with 10 neurons in it's ith hidden layer
+* Multi-Layer Perceptron (neural network); <b><i>88.52%</i></b> with 10 neurons in it's i-th hidden layer
 * Decision Tree Classifier, <b><i>pending</i></b>
 * Linear Classification, <b><i>pending</i></b>
 
