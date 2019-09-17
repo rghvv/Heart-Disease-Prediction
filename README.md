@@ -35,6 +35,12 @@ Comparing various machine learning algorithms for predicting whether someone has
 13. thalach: Maximum heart rate achieved in bpm
 14. trestbps: Resting blood pressure (in mmHg on admission to the hospital)
 
+## Data Preprocessing
+
+The following data preprocessing methods are used:
+
+* Convert categorical column names to indicator variables using <code>pands.get_dummies()</i></b>
+
 ## Machine Learning Algorithms
 
 The machine learning algorithms with their accuracies are:
