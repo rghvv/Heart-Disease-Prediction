@@ -1,5 +1,7 @@
 # Heart Disease Prediction
-Comparing various machine learning algorithms for predicting whether someone has heart disease from 14 biological attributes. These attributes are:
+Comparing various machine learning algorithms for predicting whether someone has heart disease from 14 biological attributes.
+
+## Biological Attributes
 
 1. age: Age in years
 2. ca: Number of major blood vessels (0-3)
