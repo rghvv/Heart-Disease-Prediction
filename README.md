@@ -41,5 +41,5 @@ The machine learning algorithms with their accuracies are:
 
 * Random Forest, <b><i>86.89%</i></b> with 200, 500 & 1000 estimators
 * K-Nearest Neighbors; <b><i>91.8%</i></b> with 8 neighbors
-* Support Vector Classifier,
-* Decision Tree Classifier,
+* Support Vector Classifier, <b><i>pending</i></b>
+* Decision Tree Classifier, <b><i>pending</i></b>
