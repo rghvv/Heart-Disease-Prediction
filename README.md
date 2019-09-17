@@ -3,7 +3,7 @@ Predicting whether someone has heart disease from 14 biological attributes, comp
 
 ## Dataset
 
-<code>heart.csv</code>, collected from [Kaggle Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci), contains 14 biological attributes of 303 people, including whether the person has heart disease or not.
+<code>heart.csv</code>, collected from the [Kaggle Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci) challenge, contains 14 biological attributes of 303 people, including whether the person has heart disease or not.
 
 ### Biological Attributes
 
