@@ -51,9 +51,10 @@ A correlation matrix and historgrams of the distributions of attributes are also
 
 The machine learning algorithms with their accuracies are:
 
-* Random Forest, <b><i>86.89%</i></b> with 200, 500 & 1000 estimators
+* Random Forest; <b><i>86.89%</i></b> with 200, 500 & 1000 estimators
 * K-Nearest Neighbors; <b><i>91.8%</i></b> with 8 neighbors
-* Support Vector Classifier, <b><i>pending</i></b>
+* Support Vector Classifier; <b><i>90.16%</i></b> with rbf activation
+* Ada Boost Classifier; <b><i>85.25%</i></b> with 10 estimators
 * Decision Tree Classifier, <b><i>pending</i></b>
 * Linear Classification, <b><i>pending</i></b>
 
