@@ -58,5 +58,7 @@ Plots of all algorithms with accuracies are generated using <code>matplotlib.pyp
 
 ## Resources:
 
-* Kaggle Heart Disease UCI -  
+* Kaggle Heart Disease UCI &mdash;  
     https://www.kaggle.com/ronitf/heart-disease-uci
+* UCI Machine Learning Repository: Heart Disease Data Set &mdash;  
+    https://archive.ics.uci.edu/ml/datasets/Heart+Disease
