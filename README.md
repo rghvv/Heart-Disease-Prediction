@@ -55,3 +55,8 @@ The machine learning algorithms with their accuracies are:
 * Decision Tree Classifier, <b><i>pending</i></b>
 
 Plots of all algorithms with accuracies are generated using <code>matplotlib.pyplot</code>.
+
+## Resources:
+
+* Kaggle Heart Disease UCI -  
+    https://www.kaggle.com/ronitf/heart-disease-uci
