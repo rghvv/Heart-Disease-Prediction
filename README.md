@@ -1,6 +1,8 @@
 # Heart Disease Prediction
 Comparisons of different machine learning algorithms predicting whether someone has heart disease from 14 biological attributes.
 
+The maximum accuracy is <b><i>91.8%</i></b> achieved using the K-Nearest Neighbors classification algorithm with eight neighbors.
+
 ## Dataset
 
 <code>heart.csv</code>, collected from the [Kaggle Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci) challenge, contains 14 biological attributes of 303 people, including whether the person has heart disease or not.
