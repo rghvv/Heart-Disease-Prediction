@@ -1,9 +1,9 @@
 # Heart Disease Prediction
-Comparing various machine learning algorithms for predicting whether someone has heart disease from 14 biological attributes.
+Predicting whether someone has heart disease from 14 biological attributes, complete with comparisons of different machine learning algorithms.
 
 ## Dataset
 
-<code>heart.csv</code>, collected from [Kaggle Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci), contains 14 biological attributes of 303 people, including whether the person has heart disease or not.
+<code>heart.csv</code>, collected from the [Kaggle Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci) challenge, contains 14 biological attributes of 303 people, including whether the person has heart disease or not.
 
 ### Biological Attributes
 
@@ -55,6 +55,7 @@ The machine learning algorithms with their accuracies are:
 * K-Nearest Neighbors; <b><i>91.8%</i></b> with 8 neighbors
 * Support Vector Classifier, <b><i>pending</i></b>
 * Decision Tree Classifier, <b><i>pending</i></b>
+* Linear Classification, <b><i>pending</i></b>
 
 Plots of all algorithms with accuracies are generated using <code>matplotlib.pyplot</code>.
 
