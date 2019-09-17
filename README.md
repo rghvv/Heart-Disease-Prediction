@@ -29,7 +29,7 @@ Features used for training machine learning models on, including the special bin
     * Value 1: Upsloping
     * Value 2: Flat
     * Value 3: Downsloping
-11. <b><i>target</i></b>: Target (0 = disease; 1 = no disease)
+11. <b><i>target</i></b>: Heart disease detection (0 = disease; 1 = no disease)
 12. <b><i>thal</i></b>: Thalium stress test
     * Value 3: normal
     * Value 6: fixed defect
