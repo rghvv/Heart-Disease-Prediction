@@ -39,7 +39,7 @@ Comparing various machine learning algorithms for predicting whether someone has
 
 The following data preprocessing methods are used:
 
-* Convert categorical column names to indicator variables using <code>pands.get_dummies(dataset)</i></b></code>
+* Convert categorical column names to indicator variables using <code>pands.get_dummies(dataset)</i></b></code>.
 * Scale some columns with scalable columns, such as 'age', 'chol', 'oldpeak', 'thalach', 'trestbps', 'chol'.
 
 ## Machine Learning Algorithms
