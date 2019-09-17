@@ -39,7 +39,7 @@ Comparing various machine learning algorithms for predicting whether someone has
 
 The machine learning algorithms with their accuracies are:
 
-* Random Forest,
-* K-Nearest Neighbors,
+* Random Forest, <b><i>
+* K-Nearest Neighbors; <b><i>91.8%</i></b> with 8 neighbors
 * Support Vector Classifier,
 * Decision Tree Classifier,
