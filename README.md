@@ -7,7 +7,7 @@ Comparing various machine learning algorithms for predicting whether someone has
 
 ### Biological Attributes
 
-Features used for training machine learning models on, including the special binary class label <b><i>target</b></i>, describing whether there was heart disease was detected.
+Features used for training machine learning models on, including the special binary class label <b><i>target</b></i>, describing whether heart disease was detected.
 
 1. <b><i>age</i></b>: Age in years
 2. <b><i>ca</i></b>: Number of major blood vessels (0-3)
