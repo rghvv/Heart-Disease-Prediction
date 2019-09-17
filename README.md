@@ -57,7 +57,7 @@ The machine learning algorithms with their accuracies are:
 * Ada Boost Classifier; <b><i>85.25%</i></b> with 10 estimators
 * Multi-Layer Perceptron (neural network); <b><i>88.52%</i></b> with 10 neurons in it's i-th hidden layer
 * Decision Tree Classifier, <b><i>85.25%</i></b> with 28 maximum features
-* Linear Classification, <b><i>pending</i></b>
+* Linear Classifiers with stochastic gradient descent training, <b><i>90.16%</i></b> with 'hinge' and 'log' loss functions
 
 Plots of all algorithms with accuracies are generated using <code>matplotlib.pyplot</code>.
 
