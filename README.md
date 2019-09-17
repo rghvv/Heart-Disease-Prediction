@@ -1,7 +1,7 @@
 # Heart Disease Prediction
 Comparisons of different machine learning algorithms predicting whether someone has heart disease from 14 biological attributes.
 
-The maximum accuracy is <b><i>91.8%</i></b> achieved using the K-Nearest Neighbors classification algorithm with eight neighbors.
+The maximum accuracy is <b><i>91.8%</i></b>, achieved using the K-Nearest Neighbors classification algorithm with eight neighbors.
 
 ## Dataset
 
