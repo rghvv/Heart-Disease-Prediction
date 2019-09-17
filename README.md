@@ -34,3 +34,12 @@ Comparing various machine learning algorithms for predicting whether someone has
     * Value 7: reversibe defect
 13. thalach: Maximum heart rate achieved in bpm
 14. trestbps: Resting blood pressure (in mmHg on admission to the hospital)
+
+## Machine Learning Algorithms
+
+The machine learning algorithms with their accuracies are:
+
+* Random Forest,
+* K-Nearest Neighbors,
+* Support Vector Classifier,
+* Decision Tree Classifier,
