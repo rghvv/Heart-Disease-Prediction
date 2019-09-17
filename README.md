@@ -1,6 +1,10 @@
 # Heart Disease Prediction
 Comparing various machine learning algorithms for predicting whether someone has heart disease from 14 biological attributes.
 
+## Dataset
+
+<code>heart.csv</code>, collected from [Kaggle Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci), contains 14 biological attributes of 303 people, including whether the person has heart disease or not.
+
 ## Biological Attributes
 
 1. age: Age in years
