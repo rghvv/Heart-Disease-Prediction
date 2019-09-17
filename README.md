@@ -1,5 +1,5 @@
 # Heart Disease Prediction
-Predicting whether someone has heart disease from 14 biological attributes, complete with comparisons of different machine learning algorithms.
+Comparisons of different machine learning algorithms predicting whether someone has heart disease from 14 biological attributes.
 
 ## Dataset
 
