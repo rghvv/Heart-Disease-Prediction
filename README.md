@@ -45,6 +45,8 @@ The following data preprocessing methods are used:
 * Scale some columns with scalable columns, such as 'age', 'chol', 'oldpeak', 'thalach', 'trestbps', 'chol'.
 * Split dataset into 80% training and 20% testing.
 
+A correlation matrix and historgrams of the distributions of attributes are also generated.
+
 ## Machine Learning Algorithms
 
 The machine learning algorithms with their accuracies are:
