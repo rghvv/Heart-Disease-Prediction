@@ -61,7 +61,15 @@ The machine learning algorithms with their accuracies are:
 
 Plots of all algorithms with accuracies are generated using <code>matplotlib.pyplot</code>.
 
-## Resources:
+## Dependencies
+
+* Python 3.6+
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+
+## Resources
 
 * Kaggle Heart Disease UCI &mdash;  
     https://www.kaggle.com/ronitf/heart-disease-uci
