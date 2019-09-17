@@ -41,6 +41,7 @@ The following data preprocessing methods are used:
 
 * Convert categorical column names to indicator variables using <code>pands.get_dummies(dataset)</i></b></code>.
 * Scale some columns with scalable columns, such as 'age', 'chol', 'oldpeak', 'thalach', 'trestbps', 'chol'.
+* Split dataset into 80% training and 20% testing.
 
 ## Machine Learning Algorithms
 
