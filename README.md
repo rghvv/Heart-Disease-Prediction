@@ -39,7 +39,7 @@ Comparing various machine learning algorithms for predicting whether someone has
 
 The following data preprocessing methods are used:
 
-* Convert categorical column names to indicator variables using <code>pands.get_dummies(dataset)</i></b></code>.
+* Convert categorical column names to indicator variables using <code>pands.get_dummies(dataset)</code>.
 * Scale some columns with scalable columns, such as 'age', 'chol', 'oldpeak', 'thalach', 'trestbps', 'chol'.
 * Split dataset into 80% training and 20% testing.
 
@@ -51,3 +51,5 @@ The machine learning algorithms with their accuracies are:
 * K-Nearest Neighbors; <b><i>91.8%</i></b> with 8 neighbors
 * Support Vector Classifier, <b><i>pending</i></b>
 * Decision Tree Classifier, <b><i>pending</i></b>
+
+Plots of all algorithms with accuracies are generated using <code>matplotlib.pyplot</code>.
